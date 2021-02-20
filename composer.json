@@ -1,0 +1,15 @@
+{
+    "name": "arham/php-abr",
+    "authors": [
+        {
+            "name": "arhamroshanar",
+            "email": "arhamroshan445@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
